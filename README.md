@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Study Blog(University Project)**
 
-- 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT,PHP**
+- 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT**
 
 - 💬 Ask me about **C,C#,Web Development**
 
