@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiza-shakeel77&label=Profile%20views&color=0e75b6&style=flat" alt="faiza-shakeel77" /> </p>
 
-- 🔭 I’m currently working on **Study Blog(University Project)**
+- 🔭 I have completed project **Study Blog(University Project)**
 
-- 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT,PHP**
+- 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT,React,Bcakend,Frontend**
 
 - 💬 Ask me about **C,C#,Web Development**
 
