@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Computer Engineer dedicated to crafting innovative solutions and pushing the boundaries of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiza-shakeel77&label=Profile%20views&color=0e75b6&style=flat" alt="faiza-shakeel77" /> </p>
-
+- 🔭 I have recently completed my final year project **Facial Recognition Advanced Student Attendance System (University Project)**
 - 🔭 I have completed project **Study Blog(University Project)**
 
-- 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT,React,Bcakend,Frontend**
+- 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT, Python,React,Bcakend,Frontend**
 
-- 💬 Ask me about **C,C#,Web Development**
+- 💬 Ask me about **C,C#,Web Development and Mobile Applications**
 
 - 📫 How to reach me **faizashakeel095@gmail.com**
 
