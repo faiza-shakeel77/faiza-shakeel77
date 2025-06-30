@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiza-shakeel77&label=Profile%20views&color=0e75b6&style=flat" alt="faiza-shakeel77" /> </p>
 - 🔭 I have recently completed my final year project **Facial Recognition Advanced Student Attendance System (University Project)**
+
 - 🔭 I have completed project **Study Blog(University Project)**
 
 - 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT, Python,React,Bcakend,Frontend**
